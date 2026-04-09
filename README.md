@@ -45,6 +45,7 @@ The strongest selected linear model used these predictors:
 - E_POP
 - S_POP
 - E_INCOME
+<img width="1753" height="1020" alt="Screenshot 2026-04-09 111321" src="https://github.com/user-attachments/assets/6f9150ea-a9bd-425b-bce9-d29fade65a48" />
 
 ### Model comparison
 - Selected linear model validation RMSE: **34.89**
