@@ -28,9 +28,8 @@ This repository contains a cleaned portfolio project based on an airline pricing
 .
 ├── airline_fare_modeling_case_study.ipynb
 ├── README.md
-├── requirements.txt
-├── .gitignore
-└── github_upload_instructions.md
+├── Airfares.csv
+└── requirements.txt
 ```
 
 ## Key findings
